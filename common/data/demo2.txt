@@ -1,0 +1,6 @@
+math 101 66
+math 102 80
+math 103 95
+english 101 59
+english 102 98
+english 103 65
